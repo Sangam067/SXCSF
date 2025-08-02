@@ -5,27 +5,27 @@ const ImageSlider = () => {
 
   const slides = [
     {
-      image: 'https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg',
+      image: 'https://i.ibb.co/nygs02n/41.jpg',
       title: 'Hands-on Experiments',
-      description: 'Students engage in practical laboratory experiments, applying theoretical knowledge to real-world scenarios.'
+      description: 'Students engage in practical experiments, applying theoretical knowledge to real-world scenarios.'
     },
     {
-      image: 'https://images.pexels.com/photos/8471831/pexels-photo-8471831.jpeg',
+      image: 'https://i.ibb.co/Vc91zk73/tgsp.jpg',
       title: 'Team Collaboration',
       description: 'Participants work together to solve complex scientific challenges, fostering teamwork and communication skills.'
     },
     {
-      image: 'https://i.ibb.co/FbxRHrqd/image.png',
-      title: 'Scientific Presentations',
-      description: 'Students present their research findings and innovative solutions to panels of expert judges.'
+      image: 'https://i.ibb.co/vx666C2T/30.jpg',
+      title: 'Fun Stalls',
+      description: 'Students get to experience different stalls and activities for entertainment.'
     },
     {
-      image: 'https://images.pexels.com/photos/8471832/pexels-photo-8471832.jpeg',
+      image: 'https://i.ibb.co/rGymvsfx/55.jpg',
       title: 'Recognition & Awards',
       description: 'Outstanding participants receive recognition for their achievements and contributions to science.'
     },
     {
-      image: 'https://i.ibb.co/ksQzVVpS/sdm.png',
+      image: 'https://i.ibb.co/5WTP53Tc/48.jpg',
       title: 'Innovation Showcase',
       description: 'Students display their creative projects and innovative solutions to scientific problems.'
     }

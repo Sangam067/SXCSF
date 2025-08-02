@@ -9,8 +9,8 @@ const Footer = () => {
             <h3>Quick Links</h3>
             <ul>
               <li><a href="#facebook">Facebook</a></li>
-              <li><a href="#instagram">Instagram</a></li>
-              <li><a href="#twitter">Twitter</a></li>
+              <li><a href="https://www.instagram.com/science.fest/">Instagram</a></li>
+              
             </ul>
           </div>
           <div className="footer-section">

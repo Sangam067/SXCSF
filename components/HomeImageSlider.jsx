@@ -2,9 +2,10 @@
 import React, { useState, useEffect } from "react";
 
 const images = [
-  "/images/1.jpg",
-  "/images/2.jpg",
-  "/images/3.jpg", // Add as many as you want
+  "https://i.ibb.co/LdSks9HW/49.jpg",
+  "https://i.ibb.co/wZLCfZ2C/45.jpg",
+  "https://i.ibb.co/nygs02n/41.jpg",
+  "https://i.ibb.co/1YC0SBdk/1.jpg" // Add as many as you want
 ];
 
 const HomeImageSlider = ({ children }) => {

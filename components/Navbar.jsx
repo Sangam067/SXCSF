@@ -5,8 +5,12 @@ const Navbar = ({ currentPage, onNavigate }) => {
     <nav className="navbar">
       <div className="nav-container">
         <div className="logo-section" onClick={() => onNavigate("home")}>
-          <div className="logo">⚛️</div>
-          <h1 className="site-title">SXC Science Fest</h1>
+          <div className="logo">  <img
+            className="logo-img"
+            src="https://i.ibb.co/GvQ8N1jD/sxcsflogo.png"
+            alt="Logo"
+          /></div>
+          <h1 className="site-title">&emsp;SXC Science Fest</h1>
         </div>
         <div className="nav-links">
           <div
